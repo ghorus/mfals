@@ -57,8 +57,8 @@ A one-page website displaying data. Built with Flask framework (Python backend)
 - [View the CSV file itself](https://github.com/ghorus/mfals/blob/main/analyze_data/csv_reports/FBA_and_dropshipping_vendors.csv)
 
 ## TLDR; of sample data generated
-- **Employees** first_name, last_name, employment_status, department
-- **Online Orders** product_id, delivery_time, tracking_number, driver_id
-- **Post Sales Refunds** product_id, reason
-- **Products** location(manufactured), company_name(platform being sold at), product_id, warehouse_id, warehouse_aisle
-- **Customer Ratings** product_id, rating
+- **3000 Employees** first_name, last_name, employment_status, department
+- **1000 Online Orders** product_id, delivery_time, tracking_number, driver_id
+- **500 Post Sales Refunds** product_id, reason
+- **1000 Products** location(manufactured), company_name(platform being sold at), product_id, warehouse_id, warehouse_aisle
+- **500 Customer Ratings** product_id, rating
