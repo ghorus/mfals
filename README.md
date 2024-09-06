@@ -10,21 +10,26 @@ MFALS SQL Query Request Reply
 
 ### vendor compliance 
 **Scenario**: A management team wants to monitor total number of packages damaged and assess whether to take action or not.
-- location on website: "vendors_compliance.csv" heading
+- **location on website:** vendors_compliance.csv
 - [SQL query for this table](https://github.com/ghorus/mfals/blob/main/analyze_data/vendors_compliance.sql)
-- Output: Total packages reported as 'damaged' by customers'
+- **Output:** Total packages reported as 'damaged' by customers'
 
 ### retail routing
 **Scenario**: Management wants to get information on which packages aren't being delivered on time for it's special "1 Week Deliveries".
-- location on website: "retail_routing.csv"
--[SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/retail_routing.sql)
-- Output: product_id, delivery_time, track_number, driver_id
+- **location on website:** retail_routing.csv
+- [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/retail_routing.sql)
+- **Output**: product_id, delivery_time, track_number, driver_id ordered by longest delivery time first
 
 ### products logistics
-**Scenario**:
+**Scenario**: Operations team wants current inventory information for each product industry category:
+- **location on website:** products_logistics.csv
+- [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/products_logistics.sql)
+- **Output:** A total count of products for baby gear, exercise products, pet products, beauty, houseware, and electronics
 
 ### post sales services
-**Scenario**:
+**Scenario**: Management needs information on which products were returned simply as "no need" so that the products can be put up for resale.
+- **location on website:** products_logistics.csv
+- [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/post_sales_refurbish.sql)
 
 ### tracking and shipping
 **Scenario**:
