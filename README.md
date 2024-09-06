@@ -6,7 +6,7 @@ A one-page website displaying data. Built with Flask framework (Python backend)
 
 [The Website here](https://mfals.onrender.com/)
 
-**Note:** Please note that the website currently uses the "Free" plan on render.com because of my financial situation.
+**Note:** Please note that the website currently uses the "Free" plan on render.com because of my financial situation. It will take about a minute to load if it hasn't been visited for a while.
 
 **Purpose:** MFALS Recruiter asked for a complex SQL query, so the purpose of this project is to display sample data queries. The sample datas generated are related to MFALS, such as:
 
@@ -55,3 +55,10 @@ A one-page website displaying data. Built with Flask framework (Python backend)
 - [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/FBA_and_dropshipping_vendors.sql)
 - **Output:** country, industry of products
 - [View the CSV file itself](https://github.com/ghorus/mfals/blob/main/analyze_data/csv_reports/FBA_and_dropshipping_vendors.csv)
+
+## TLDR; of sample data generated
+- **Employees** first_name, last_name, employment_status, department
+- **Online Orders** product_id, delivery_time, tracking_number, driver_id
+- **Post Sales Refunds** product_id, reason
+- **Products** location(manufactured), company_name(platform being sold at), product_id, warehouse_id, warehouse_aisle
+- **Customer Ratings** product_id, rating
