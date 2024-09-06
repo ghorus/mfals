@@ -36,6 +36,11 @@ A one-page website displaying data. Built with Flask framework (Python backend)
 - **location on website:** products_logistics.csv
 - [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/post_sales_refurbish.sql)
 - [View the CSV file itself](https://github.com/ghorus/mfals/blob/main/analyze_data/csv_reports/post_sales_refurbish.csv)
+
+**Scenario #2:** Management wants to see which products are performing very well by looking at the customer ratings.
+- **location on website:** customer_ratings.csv
+- [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/customer_ratings.sql)
+- [View the CSV file itself](https://github.com/ghorus/mfals/blob/main/analyze_data/csv_reports/customer_ratings.csv)
   
 ### tracking and shipping
 **Scenario**: Operations team wants to keep track of how many packages were delivered without a track number to assess whether to take action in order to minimize mislabeling. 
