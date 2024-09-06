@@ -2,7 +2,7 @@
 MFALS SQL Query Request Reply 
 
 ## Project Overview
-A one-page website displaying data
+A one-page website displaying data. Built with Flask framework (Python backend)
 
 [The Website here](https://mfals.onrender.com/)
 
