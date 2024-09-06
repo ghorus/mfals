@@ -1,0 +1,61 @@
+country,industry
+Australia,Beauty
+Australia,Electronics
+Australia,Pets
+Australia,Exercise
+Australia,Baby Gear
+Australia,Houseware
+Brazil,Electronics
+Brazil,Houseware
+Brazil,Beauty
+Brazil,Baby Gear
+Brazil,Exercise
+Brazil,Pets
+Canada,Exercise
+Canada,Pets
+Canada,Houseware
+Canada,Baby Gear
+Canada,Beauty
+Canada,Electronics
+China,Exercise
+China,Pets
+China,Houseware
+China,Beauty
+China,Electronics
+China,Baby Gear
+France,Baby Gear
+France,Exercise
+France,Beauty
+France,Houseware
+France,Pets
+France,Electronics
+Germany,Electronics
+Germany,Beauty
+Germany,Houseware
+Germany,Exercise
+Germany,Pets
+Germany,Baby Gear
+Japan,Pets
+Japan,Baby Gear
+Japan,Beauty
+Japan,Houseware
+Japan,Exercise
+Japan,Electronics
+Mexico,Exercise
+Mexico,Beauty
+Mexico,Baby Gear
+Mexico,Houseware
+Mexico,Electronics
+Mexico,Pets
+UK,Houseware
+UK,Pets
+UK,Exercise
+UK,Baby Gear
+UK,Beauty
+UK,Electronics
+USA,Electronics
+USA,Houseware
+USA,Pets
+USA,Exercise
+USA,Baby Gear
+USA,Beauty

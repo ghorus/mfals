@@ -1,4 +1,3 @@
--- employees.sql
 CREATE TABLE IF NOT EXISTS employees (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     first_name TEXT NOT NULL,
