@@ -16,7 +16,9 @@ MFALS SQL Query Request Reply
 
 ### retail routing
 **Scenario**: Management wants to get information on which packages aren't being delivered on time for it's special "1 Week Deliveries".
-
+- location on website: "retail_routing.csv"
+-[SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/retail_routing.sql)
+- Output: product_id, delivery_time, track_number, driver_id
 
 ### products logistics
 **Scenario**:
