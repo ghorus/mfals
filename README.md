@@ -2,10 +2,12 @@
 MFALS SQL Query Request Reply 
 
 ## Project Overview
+A one-page website displaying data
 
 [The Website here](https://mfals.onrender.com/)
 
 **Note:** Please note that the website currently uses the "Free" plan on render.com because of my financial situation.
+
 **Purpose:** MFALS Recruiter asked for a complex SQL query, so the purpose of this project is to display sample data queries. The sample datas generated are related to MFALS, such as:
 
 ### vendor compliance 
@@ -32,7 +34,13 @@ MFALS SQL Query Request Reply
 - [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/post_sales_refurbish.sql)
 
 ### tracking and shipping
-**Scenario**:
+**Scenario**: Operations team wants to keep track of how many packages were delivered without a track number to assess whether to take action in order to minimize mislabeling. 
+- **location on website**: tracking_shipping.csv
+- [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/tracking_shipping.sql)
+- **Output:** product_id, delivery_time, driver_id to ordered by latest delivery times
 
 ### FBA & dropshipping
-**Scenario**:
+**Scenario**: Management wants to see which countries their products are being shipped from and what kinds of products.
+- **location on website:** FBA_and_dropshipping_vendors.csv
+- [SQL query](https://github.com/ghorus/mfals/blob/main/analyze_data/FBA_and_dropshipping_vendors.sql)
+- **Output:** country, industry of products
